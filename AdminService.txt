@@ -1,7 +1,7 @@
 add and remove users
 chenge the role
 manage the database
-closing the connection
+closing the database connection
 
 change 1
 change 2 nel mio database
